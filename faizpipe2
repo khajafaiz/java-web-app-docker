@@ -1,1 +1,9 @@
-https://github.com/khajafaiz/tiger.git
+node {
+     
+     stage( "Git Clone"){
+     
+     git url:'https://github.com/khajafaiz/java-web-app-docker.git',branch:'master'
+     
+         }
+         
+     }
