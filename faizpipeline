@@ -2,7 +2,7 @@ node {
      
      stage( "Git Clone"){
      
-     git url:'https://github.com/khajafaiz/maven-web-application.git',branch:'master'
+     git url:'https://github.com/khajafaiz/java-web-app-docker.git',branch:'master'
      
          }
          
